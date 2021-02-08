@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-country="MENA;EUR;NORAM;AU" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Abu Dhabi TV (1080p)
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="INT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="INT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Arabiya (1080p)
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" tvg-url="" group-title="News",Australia Channel (720p)
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (360p)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" tvg-url="" group-title="News",Canal 26 (720p)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (360p)
+https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (720p)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/nQVDOVb.png" tvg-url="" group-title="",Canal 9 (1080p)
+https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" tvg-url="" group-title="",Canal Alpha Jura (1080p)
+https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" tvg-url="" group-title="",Die Neue Zeit (576p)
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" tvg-url="" group-title="",Dieu TV (1080p)
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai TV" tvg-name="Dubai TV" tvg-country="INT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dWueFIE.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Dubai TV (1080p)
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EUR" tvg-language="German" tvg-logo="https://i.imgur.com/UxISEZf.png" tvg-url="" group-title="",GoTV (576p)
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="" tvg-logo="https://i.imgur.com/nQVDOVb.png" tvg-url="" group-title="",Kanal 9 (1080p)
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/JiAnDPu.png" tvg-url="" group-title="",La Tele (1080p)
+https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/JiAnDPu.png" tvg-url="" group-title="",La Tele (1080p)
+https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/UE1E3uH.png" tvg-url="" group-title="",LFM TV (1080p)
+https://edge3.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="" tvg-logo="https://i.imgur.com/YEQ957V.png" tvg-url="" group-title="",One TV (720p)
+https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ASIA;EUR;AFR;AU;NORAM" tvg-language="English" tvg-logo="https://i.imgur.com/ibUfEGr.png" tvg-url="" group-title="Religious",Peace TV English
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/sxrRSXb.jpg" tvg-url="" group-title="",QS24 (720p)
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/lQzG2lg.png" tvg-url="" group-title="",Radio Pilatus TV (1080p)
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/G030MZb.png" tvg-url="" group-title="",Rouge TV (720p)
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/9fAlB8K.png" tvg-url="" group-title="",RTS Couleur 3 (720p)
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AF;SAS;CAS;MIDEAST;EUR;AFR" tvg-language="Pushto" tvg-logo="https://i.imgur.com/XkLlmcf.jpg" tvg-url="" group-title="",Shamshad TV (512p)
+https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele M1 HD CH" tvg-name="Tele M1 HD CH" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/RqKjRTP.png" tvg-url="" group-title="",Tele M1 HD
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-url="" group-title="",TeleBarn (720p)
+https://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-url="" group-title="",TeleBarn (720p)
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-url="" group-title="",TeleBarn
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8
+#EXTINF:-1 tvg-id="Telebasel HD CH" tvg-name="Telebasel HD CH" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/mMXYqtm.png" tvg-url="" group-title="",Telebasel HD (288p)
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/bPpWJj2.png" tvg-url="" group-title="",TeleBielingue
+https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="French" tvg-logo="https://www.tvm3.tv/images/Tvm3BlueLogo.png" tvg-url="" group-title="",TVM3 (1080p)
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8

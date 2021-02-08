@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-country="MENA;EUR;NORAM;AU" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General",Abu Dhabi TV (1080p)
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/k1bTMPT.png" tvg-url="" group-title="",Acasa TV
+http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="INT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="INT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="News",Al Arabiya (1080p)
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" tvg-url="" group-title="News",Australia Channel (720p)
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="",Bălţi TV
+http://77.89.199.174:8000/play/1024/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (360p)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" tvg-url="" group-title="News",Canal 26 (720p)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (360p)
+https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (720p)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ZiwyCkA.png" tvg-url="" group-title="",Canal Regional
+https://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Drochia
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1 tvg-id="Dubai TV" tvg-name="Dubai TV" tvg-country="INT" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dWueFIE.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",Dubai TV (1080p)
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Z27Eyqv.jpg" tvg-url="" group-title="",Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EUR" tvg-language="German" tvg-logo="https://i.imgur.com/UxISEZf.png" tvg-url="" group-title="",GoTV (576p)
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Moldova1
+rtsp://212.0.209.209:1935/live/_definst_/mp4:MoldovaUnu1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Moldova1
+rtsp://live.trm.md:1935/live/M1Mlive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Moldova2
+rtmp://212.0.209.209:1935/live/_definst_mp4:MoldovaDoi2
+#EXTINF:-1 tvg-id="noroc-tv-md" tvg-name="Noroc TV Moldova" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/39qL2Ht.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Noroc TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ASIA;EUR;AFR;AU;NORAM" tvg-language="English" tvg-logo="https://i.imgur.com/ibUfEGr.png" tvg-url="" group-title="Religious",Peace TV English
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="publika-tv" tvg-name="Publika TV" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Hquii9k.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Publika TV
+https://livebeta.publika.md/LIVE/P/1000.m3u8
+#EXTINF:-1 tvg-id="publika-tv" tvg-name="Publika TV" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Hquii9k.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Publika TV
+https://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:-1 tvg-id="publika-tv" tvg-name="Publika TV" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Hquii9k.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Publika TV (720p)
+https://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AF;SAS;CAS;MIDEAST;EUR;AFR" tvg-language="Pushto" tvg-logo="https://i.imgur.com/XkLlmcf.jpg" tvg-url="" group-title="",Shamshad TV (512p)
+https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/FVldFIy.jpg" tvg-url="" group-title="",Tele M
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",TNT_EXCLUSIV
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" tvg-url="" group-title="",TVR Moldova HD (720p)
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MD" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="",Vocea Basarabiei TV
+http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
